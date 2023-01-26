@@ -23,3 +23,4 @@
 <p>https://unsplash.com/developers</p>
 
 <h3 align="center"> Preview: </h3>
+https://lucas-abrahao.github.io/OpenWeatherAPI/
